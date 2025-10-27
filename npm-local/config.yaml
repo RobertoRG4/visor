@@ -1,0 +1,32 @@
+storage: C:\Users\cds3h\Videos\libreia-visor\npm-local\storage
+auth:
+  htpasswd:
+    file: C:\Users\cds3h\Videos\libreia-visor\npm-local\htpasswd
+    max_users: 0
+uplinks:
+  npmjs:
+    url: https://registry.npmjs.org/
+packages:
+  '@*/*':
+    access: $all
+    publish: $authenticated
+    unpublish: $authenticated
+    proxy: npmjs
+  '**':
+    access: $all
+    publish: $authenticated
+    unpublish: $authenticated
+    proxy: npmjs
+server:
+  keepAliveTimeout: 60
+middlewares:
+  audit:
+    enabled: true
+web:
+  enable: true
+  title: My Private NPM Registry
+log:
+  type: stdout
+  format: pretty
+  level: http
+listen: 0.0.0.0:4873

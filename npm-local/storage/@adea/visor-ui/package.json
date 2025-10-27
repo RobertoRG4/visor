@@ -1,0 +1,366 @@
+{
+	"name": "@adea/visor-ui",
+	"versions": {
+		"0.0.1": {
+			"name": "@adea/visor-ui",
+			"version": "0.0.1",
+			"description": "A TypeScript library for Next.js applications.",
+			"main": "dist/index.js",
+			"types": "dist/index.d.ts",
+			"scripts": {
+				"build": "tsc",
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"nextjs",
+				"typescript",
+				"library"
+			],
+			"author": "",
+			"license": "ISC",
+			"dependencies": {
+				"react": "^19.2.0",
+				"react-dom": "^19.2.0"
+			},
+			"devDependencies": {
+				"@tailwindcss/postcss": "^4.1.16",
+				"@types/node": "^20.19.23",
+				"@types/react": "^19.2.2",
+				"postcss": "^8.5.6",
+				"typescript": "^5.9.3"
+			},
+			"peerDependencies": {
+				"next": "^16.0.0"
+			},
+			"readmeFilename": "README.md",
+			"_id": "@adea/visor-ui@0.0.1",
+			"_nodeVersion": "23.9.0",
+			"_npmVersion": "11.6.2",
+			"dist": {
+				"integrity": "sha512-/KIIDP79Cov9y7ocl/dVwUN1V6NwG50vBjzMm1JKpDtxpmUxNGNDo10XrPoWFosLojKdxlOIG6PCAO18Lm0kPA==",
+				"shasum": "4ddadeaa0456b7eba8b75f8bc450562727d6b2ac",
+				"tarball": "http://localhost:4873/@adea/visor-ui/-/@adea/visor-ui-0.0.1.tgz"
+			},
+			"contributors": []
+		},
+		"0.0.2": {
+			"name": "@adea/visor-ui",
+			"version": "0.0.2",
+			"description": "A TypeScript library for Next.js applications.",
+			"main": "dist/index.js",
+			"types": "dist/index.d.ts",
+			"scripts": {
+				"build": "tsc",
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"nextjs",
+				"typescript",
+				"library"
+			],
+			"author": "",
+			"license": "ISC",
+			"dependencies": {
+				"react": "^19.2.0",
+				"react-dom": "^19.2.0"
+			},
+			"devDependencies": {
+				"@tailwindcss/postcss": "^4.1.16",
+				"@types/node": "^20.19.23",
+				"@types/react": "^19.2.2",
+				"postcss": "^8.5.6",
+				"typescript": "^5.9.3"
+			},
+			"peerDependencies": {
+				"next": "^16.0.0"
+			},
+			"readmeFilename": "README.md",
+			"_id": "@adea/visor-ui@0.0.2",
+			"_nodeVersion": "23.9.0",
+			"_npmVersion": "11.6.2",
+			"dist": {
+				"integrity": "sha512-lyQ5hGpDWt40CJsw9pKdFpsMs1sX1fw9hiOJXgWNzJphvtOKWkkjoDT0eshBNiIoQiU/cTeDjmlLf6RTxaG8pA==",
+				"shasum": "65ea2d98972f0edc66ea30688ff5dfe792749d19",
+				"tarball": "http://localhost:4873/@adea/visor-ui/-/@adea/visor-ui-0.0.2.tgz"
+			},
+			"contributors": []
+		},
+		"0.0.3": {
+			"name": "@adea/visor-ui",
+			"version": "0.0.3",
+			"description": "A TypeScript library for Next.js applications.",
+			"main": "dist/index.js",
+			"types": "dist/index.d.ts",
+			"scripts": {
+				"build": "tsc",
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"nextjs",
+				"typescript",
+				"library"
+			],
+			"author": {
+				"name": "rromerog"
+			},
+			"license": "ISC",
+			"dependencies": {
+				"react": "^19.2.0",
+				"react-dom": "^19.2.0"
+			},
+			"devDependencies": {
+				"@tailwindcss/postcss": "^4.1.16",
+				"@types/node": "^20.19.23",
+				"@types/react": "^19.2.2",
+				"postcss": "^8.5.6",
+				"typescript": "^5.9.3"
+			},
+			"peerDependencies": {
+				"next": "^16.0.0"
+			},
+			"readmeFilename": "README.md",
+			"_id": "@adea/visor-ui@0.0.3",
+			"_nodeVersion": "23.9.0",
+			"_npmVersion": "11.6.2",
+			"dist": {
+				"integrity": "sha512-HU2nwY7AGwW0dj2MHVjrYTaD5Mf5o8jrxN3bINHgJf3/7cgUi1dTcL2+Bm++d+8E4uAXMDasV7WfQg2nld4ZQg==",
+				"shasum": "e9b94b70cfd19172fe901d717957ce6201d6dea3",
+				"tarball": "http://localhost:4873/@adea/visor-ui/-/@adea/visor-ui-0.0.3.tgz"
+			},
+			"contributors": []
+		},
+		"0.0.4": {
+			"name": "@adea/visor-ui",
+			"version": "0.0.4",
+			"description": "A TypeScript library for Next.js applications.",
+			"main": "dist/index.js",
+			"types": "dist/index.d.ts",
+			"scripts": {
+				"build": "tsc",
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"nextjs",
+				"typescript",
+				"library"
+			],
+			"author": {
+				"name": "rromerog"
+			},
+			"license": "ISC",
+			"dependencies": {
+				"react": "^19.2.0",
+				"react-dom": "^19.2.0"
+			},
+			"devDependencies": {
+				"@tailwindcss/postcss": "^4.1.16",
+				"@types/node": "^20.19.23",
+				"@types/react": "^19.2.2",
+				"postcss": "^8.5.6",
+				"typescript": "^5.9.3"
+			},
+			"peerDependencies": {
+				"next": "^16.0.0"
+			},
+			"readmeFilename": "README.md",
+			"_id": "@adea/visor-ui@0.0.4",
+			"_nodeVersion": "23.9.0",
+			"_npmVersion": "11.6.2",
+			"dist": {
+				"integrity": "sha512-HKN45hdHy5dnImgoCBKGww6gciw0u3z060UqYhUBjR1J5pUx2oZYorfhYMQCbwBC8OG3+mHZS956UpLIx1Jmlw==",
+				"shasum": "b2c3845412dbdce33ba2af1c1a55f11471a8f680",
+				"tarball": "http://localhost:4873/@adea/visor-ui/-/@adea/visor-ui-0.0.4.tgz"
+			},
+			"contributors": []
+		},
+		"0.0.5": {
+			"name": "@adea/visor-ui",
+			"version": "0.0.5",
+			"description": "A TypeScript library for Next.js applications.",
+			"main": "dist/index.js",
+			"types": "dist/index.d.ts",
+			"scripts": {
+				"build": "tsc",
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"nextjs",
+				"typescript",
+				"library"
+			],
+			"author": {
+				"name": "rromerog"
+			},
+			"license": "ISC",
+			"dependencies": {
+				"@emotion/styled": "^11.14.1",
+				"react": "^19.2.0",
+				"react-dom": "^19.2.0"
+			},
+			"devDependencies": {
+				"@tailwindcss/postcss": "^4.1.16",
+				"@types/node": "^20.19.23",
+				"@types/react": "^19.2.2",
+				"postcss": "^8.5.6",
+				"typescript": "^5.9.3"
+			},
+			"peerDependencies": {
+				"next": "^16.0.0"
+			},
+			"readmeFilename": "README.md",
+			"_id": "@adea/visor-ui@0.0.5",
+			"_nodeVersion": "23.9.0",
+			"_npmVersion": "11.6.2",
+			"dist": {
+				"integrity": "sha512-YTq6WAPW/ENjqsbW19tNgpCll94qISdGHlS740JL4aEkWGmgWia6oWB76PUeQ+2jp3+AC11hBwcmFSTWcGzx4A==",
+				"shasum": "f750afbfab1df87d60a7571beb81951e136ecad1",
+				"tarball": "http://localhost:4873/@adea/visor-ui/-/@adea/visor-ui-0.0.5.tgz"
+			},
+			"contributors": []
+		},
+		"0.0.6": {
+			"name": "@adea/visor-ui",
+			"version": "0.0.6",
+			"description": "A TypeScript library for Next.js applications.",
+			"main": "dist/index.js",
+			"types": "dist/index.d.ts",
+			"scripts": {
+				"build": "tsc",
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"nextjs",
+				"typescript",
+				"library"
+			],
+			"author": {
+				"name": "rromerog"
+			},
+			"license": "ISC",
+			"dependencies": {
+				"@emotion/styled": "^11.14.1",
+				"react": "^19.2.0",
+				"react-dom": "^19.2.0"
+			},
+			"devDependencies": {
+				"@types/node": "^20.19.23",
+				"@types/react": "^19.2.2",
+				"postcss": "^8.5.6",
+				"typescript": "^5.9.3"
+			},
+			"peerDependencies": {
+				"next": "^16.0.0"
+			},
+			"readmeFilename": "README.md",
+			"_id": "@adea/visor-ui@0.0.6",
+			"_nodeVersion": "23.9.0",
+			"_npmVersion": "11.6.2",
+			"dist": {
+				"integrity": "sha512-uSSdNQ6fc5TzBiQ9IRcm3/aVUjsM0DMN5sOTnsgXnB1kicJuGhwlCw9rDMp+Qb+FBOUs6Q1lJYvCyJDAPE9Q6A==",
+				"shasum": "2a4f5250679e7481977417d8c90b6bd8ffc011c7",
+				"tarball": "http://localhost:4873/@adea/visor-ui/-/@adea/visor-ui-0.0.6.tgz"
+			},
+			"contributors": []
+		},
+		"0.0.7": {
+			"name": "@adea/visor-ui",
+			"version": "0.0.7",
+			"description": "A TypeScript library for Next.js applications.",
+			"main": "dist/index.js",
+			"types": "dist/index.d.ts",
+			"scripts": {
+				"build": "tsc",
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"nextjs",
+				"typescript",
+				"library"
+			],
+			"author": {
+				"name": "rromerog"
+			},
+			"license": "ISC",
+			"dependencies": {
+				"@emotion/styled": "^11.14.1",
+				"@mui/material": "^7.3.4",
+				"@mui/x-tree-view": "^8.15.0",
+				"@react-spring/web": "^10.0.3",
+				"@reduxjs/toolkit": "^2.9.2",
+				"react": "^19.2.0",
+				"react-dom": "^19.2.0",
+				"react-icons": "^5.5.0",
+				"react-redux": "^9.2.0"
+			},
+			"devDependencies": {
+				"@types/node": "^20.19.23",
+				"@types/react": "^19.2.2",
+				"postcss": "^8.5.6",
+				"typescript": "^5.9.3"
+			},
+			"peerDependencies": {
+				"next": "^16.0.0"
+			},
+			"readmeFilename": "README.md",
+			"_id": "@adea/visor-ui@0.0.7",
+			"_nodeVersion": "23.9.0",
+			"_npmVersion": "11.6.2",
+			"dist": {
+				"integrity": "sha512-H3z3oQ+wGoHbmUe5+Na/+clDB8tyVedPDJaBfCqo1F7ta5IZdq2bTRhgG2DSSJdaYvUUxOfGyIlOWChboBJkCA==",
+				"shasum": "c88f04250d0e31d309fbed2bfdce007670bc52f3",
+				"tarball": "http://localhost:4873/@adea/visor-ui/-/@adea/visor-ui-0.0.7.tgz"
+			},
+			"contributors": []
+		}
+	},
+	"time": {
+		"modified": "2025-10-27T02:24:08.108Z",
+		"created": "2025-10-27T00:16:31.119Z",
+		"0.0.1": "2025-10-27T00:16:31.119Z",
+		"0.0.2": "2025-10-27T00:20:12.681Z",
+		"0.0.3": "2025-10-27T00:47:09.940Z",
+		"0.0.4": "2025-10-27T00:50:28.456Z",
+		"0.0.5": "2025-10-27T01:14:41.322Z",
+		"0.0.6": "2025-10-27T01:17:50.905Z",
+		"0.0.7": "2025-10-27T02:24:08.108Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "0.0.7"
+	},
+	"_uplinks": {},
+	"_distfiles": {},
+	"_attachments": {
+		"visor-ui-0.0.1.tgz": {
+			"shasum": "4ddadeaa0456b7eba8b75f8bc450562727d6b2ac",
+			"version": "0.0.1"
+		},
+		"visor-ui-0.0.2.tgz": {
+			"shasum": "65ea2d98972f0edc66ea30688ff5dfe792749d19",
+			"version": "0.0.2"
+		},
+		"visor-ui-0.0.3.tgz": {
+			"shasum": "e9b94b70cfd19172fe901d717957ce6201d6dea3",
+			"version": "0.0.3"
+		},
+		"visor-ui-0.0.4.tgz": {
+			"shasum": "b2c3845412dbdce33ba2af1c1a55f11471a8f680",
+			"version": "0.0.4"
+		},
+		"visor-ui-0.0.5.tgz": {
+			"shasum": "f750afbfab1df87d60a7571beb81951e136ecad1",
+			"version": "0.0.5"
+		},
+		"visor-ui-0.0.6.tgz": {
+			"shasum": "2a4f5250679e7481977417d8c90b6bd8ffc011c7",
+			"version": "0.0.6"
+		},
+		"visor-ui-0.0.7.tgz": {
+			"shasum": "c88f04250d0e31d309fbed2bfdce007670bc52f3",
+			"version": "0.0.7"
+		}
+	},
+	"_rev": "21-b85c143c13bda92e",
+	"_id": "@adea/visor-ui",
+	"readme": "# Visor Library\n\nVisor is a TypeScript library designed for use with Next.js applications. It provides a collection of reusable components, hooks, utilities, and type definitions to enhance your development experience.\n\n## Installation\n\nTo install the Visor library, you can use npm or yarn:\n\n```bash\nnpm install visor\n```\n\nor\n\n```bash\nyarn add visor\n```\n\n## Usage\n\n### Components\n\nYou can import and use the components provided by Visor in your Next.js application:\n\n```tsx\nimport { MyComponent } from 'visor/components';\n```\n\n### Hooks\n\nVisor also provides custom hooks that you can use to encapsulate reusable logic:\n\n```tsx\nimport { useMyHook } from 'visor/hooks';\n```\n\n### Utilities\n\nThe library includes utility functions that can help with common tasks:\n\n```ts\nimport { myUtilityFunction } from 'visor/utils';\n```\n\n## Type Definitions\n\nVisor comes with TypeScript type definitions to ensure type safety throughout your application. You can import types as follows:\n\n```ts\nimport { MyType } from 'visor/types';\n```\n\n## License\n\nThis project is licensed under the MIT License. See the LICENSE file for more details.\n\n## Contributing\n\nContributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.\n\n## Acknowledgments\n\nThank you for using Visor! We hope it enhances your Next.js development experience."
+}

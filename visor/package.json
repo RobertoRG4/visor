@@ -1,0 +1,38 @@
+{
+  "name": "@adea/visor-ui",
+  "version": "0.0.7",
+  "description": "A TypeScript library for Next.js applications.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nextjs",
+    "typescript",
+    "library"
+  ],
+  "author": "rromerog",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.4",
+    "@mui/x-tree-view": "^8.15.0",
+    "@react-spring/web": "^10.0.3",
+    "@reduxjs/toolkit": "^2.9.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-icons": "^5.5.0",
+    "react-redux": "^9.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.23",
+    "@types/react": "^19.2.2",
+    "postcss": "^8.5.6",
+    "typescript": "^5.9.3"
+  },
+  "peerDependencies": {
+    "next": "^16.0.0"
+  }
+}
